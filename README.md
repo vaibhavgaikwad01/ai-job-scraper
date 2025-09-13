@@ -35,11 +35,12 @@ The project also provides a **Gradio web interface** for easy use and allows exp
 ## 🖼️ Screenshots
 
 ### 🔹 Gradio Interface
-![Gradio UI](D:\My Projects\DL Projects\ai-job-scraper\screenshots\Interface.png)
+![Gradio UI](screenshots/Interface.png)
 
 ### 🔹 Example Job Results
-![Job Results](D:\My Projects\DL Projects\ai-job-scraper\screenshots\Output-2.png)
-![Job Results](D:\My Projects\DL Projects\ai-job-scraper\screenshots\Output-1.png)
+![Job Results 1](screenshots/Output-1.png)
+![Job Results 2](screenshots/Output-2.png)
+
 
 
 ## 🛠️ Tech Stack
